@@ -8,6 +8,8 @@ For a pedagogical review of DMD methods, including code, see the repository: htt
 
 For measure-preserving EDMD, see the repository: https://github.com/MColbrook/Measure-preserving-Extended-Dynamic-Mode-Decomposition
 
+For residual DMD, see the repository: https://github.com/MColbrook/Residual-Dynamic-Mode-Decomposition
+
 Please cite the following papers:
 
 1. M.J. Colbrook, C. Drysdale, A. Horning *"Rigged Dynamic Mode Decomposition: Data-Driven Generalized Eigenfunction Decompositions for Koopman Operators"*.<br>
