@@ -2,7 +2,6 @@
 Code for riggedDMD: generalized eigenfunction expansions (and spectral measures) of Koopman operators
 
 Computation of generalized eigenfunctios and spectral measures of Koopman operators associated with discrete-time autonomous dynamical systems.
-
 The code includes **"main_routines"** and a gallery of examples.
 
 For a pedagogical review of DMD methods, including code, see the repository: https://github.com/MColbrook/DMD-Multiverse
