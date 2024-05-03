@@ -3,7 +3,7 @@ close all
 
 %% Extract the vorticity field, KE and time
 
-load('Cavity19k.mat')
+load('Cavity19k.mat') % data from https://ucsb.app.box.com/s/tbtdij1r4z5qt7o4cbgmolx28do98xci
 [Grid,Operators] = CavityGridOperators(VelocityField.N);
 VORT = - Operators.del2*real(VelocityField.Psi);
 VORT = VORT - mean(VORT(:));
